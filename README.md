@@ -4,7 +4,7 @@ Hi 👋 My name is ayberk karaakın
 Embedded Software Developer
 ---------------------------
 
-* 4 years of experience in developing software for automotive and Industrial IoT projects 
+* 7 years of experience in developing software for automotive and Industrial IoT projects 
 * Experienced in embedded software development using Agile Scrum Methodologies, ASPICE, VectorCAST, Azure IoT Edge 
 * Experience in object-oriented programming and functional programming paradigms
 
