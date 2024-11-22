@@ -8,7 +8,7 @@ Embedded Software Developer
 * Experienced in embedded software development using Agile Scrum Methodologies, ASPICE, VectorCAST, Azure IoT Edge 
 * Experience in object-oriented programming and functional programming paradigms
 
-* 🌍  I'm based in Istambul
+* 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [ayberk.ka@gmail.com](mailto:ayberk.ka@gmail.com)
 * ⚡  17th lvl Human Fighter @ Dragon Hunter Circle
 
